@@ -29,7 +29,7 @@ with col2:
     I'm a passionate Computer Science student with a focus on Python and AI. 
     I love building smart, intuitive applications and learning new technologies.
     """)
-    st.markdown("📚 **Education**: B.S. in Computer Science, SIndh University, Jamshoro")
+    st.markdown("📚 **Education**: B.S. in Computer Science, Sindh University, Jamshoro")
     st.markdown("🛠️ **Skills**: Python, Streamlit, SQL, Github, OpenCV, MS Office, Adobe Illustrator")
 
 st.markdown("---")
