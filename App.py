@@ -24,7 +24,7 @@ with col1:
     st.image(profile_img, width=200)
 
 with col2:
-    st.subheader("Hi, I'm Shameer Asim")
+    st.subheader("Hi, I'm Muhammad Shameer Asim")
     st.write("""
     I'm a passionate Computer Science student with a focus on Python and AI. 
     I love building smart, intuitive applications and learning new technologies.
